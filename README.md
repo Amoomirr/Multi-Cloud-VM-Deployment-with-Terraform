@@ -18,6 +18,16 @@ The project emphasizes:
 
 This project is an excellent demonstration of **cloud automation, IaC skills, and Terraform-based multi-cloud deployment**.
 
+📂 **Repository Structure**
+
+```
+├── variables.tf
+├── provider.tf
+├── main.tf
+├── outputs.tf
+└── README.md
+
+
 **Key Skills:** AWS, GCP, Terraform (IaC), Visual Studio Code, Linux (WSL)
 
 ---
@@ -131,16 +141,6 @@ This proves the **power of Terraform** in managing **hybrid and multi-cloud envi
 
 ---
 
-📂 **Repository Structure**
-
-```
-├── variables.tf
-├── provider.tf
-├── main.tf
-├── outputs.tf
-└── README.md
-
-```
 
 Step 8: Destroying All Resources
 
