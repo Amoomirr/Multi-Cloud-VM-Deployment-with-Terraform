@@ -41,7 +41,6 @@ Terraform was installed on **WSL (Linux)** to enable infrastructure provisioning
 
 Check installation:
 
-```bash
 terraform --version
 ```
 
