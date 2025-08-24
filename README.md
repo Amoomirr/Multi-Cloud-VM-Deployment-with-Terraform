@@ -68,8 +68,11 @@ Two cloud providers were set up:
 Define outputs to display VM details after `terraform apply`.
 
 <img width="1132" height="557" alt="outputtf" src="https://github.com/user-attachments/assets/4e1098d1-5c4b-4e4c-9957-23d8dc566401"/>
-<img width="1287" height="683" alt="outputs" src="https://github.com/user-attachments/assets/9767d64d-7a9f-4003-945c-bfe9ab510ef5"/>
+
 This makes it easy to view **public IPs** of created VMs.
+
+<img width="1287" height="683" alt="outputs" src="https://github.com/user-attachments/assets/9767d64d-7a9f-4003-945c-bfe9ab510ef5"/>
+
 
 ---
 
@@ -79,17 +82,12 @@ This makes it easy to view **public IPs** of created VMs.
 Once applied, resources were verified:
 
 * ✅ AWS Console → EC2 Instances section
+
 <img width="1912" height="500" alt="AWS-Dashboard-after" src="https://github.com/user-attachments/assets/f93f3e43-e873-442d-aaee-33781865dfb0" />
+
 * ✅ GCP Console → Compute Engine section
+
 <img width="1907" height="616" alt="GCP-Dashboard-After" src="https://github.com/user-attachments/assets/a6ecbc6d-ea83-4439-8e9b-a6a1fc4618ed" />
-
----
-
-## 📊 Architecture Diagram
-
-Below diagram shows
-<img width="800" height="800" alt="section{textbf{Project Steps}} (1)" src="https://github.com/user-attachments/assets/bed33724-1fca-4766-a105-def9b43e3a2f" />
-
 
 ---
 
